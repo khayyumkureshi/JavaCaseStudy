@@ -1,0 +1,11 @@
+PNR: BM_20210812_114
+Train No: 1003
+Train Name: Udyan Express
+From:Bangalore
+To: Mumbai
+Travel Date: 12/8/2021
+
+Passengers
+Name	Age	Gender	Fare
+KK	22	M	1500
+Total Price: 1500.0
